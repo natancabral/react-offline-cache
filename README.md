@@ -25,19 +25,19 @@ ReactDOM.render(<App />, document.getElementById("root"));
 roc.register();
 ```
 
-## How remove
+## How to remove
 
 ```js
 roc.unregister();
 ```
 
-## Is Online?
+## Is online
 
 ```js
 console.log('online:', roc.isOnline());
 ```
 
-## Is Offline?
+## Is offline
 ```js
 if(roc.isOffline()) {
   window.alert('Your internet is offline. Sorry.');
