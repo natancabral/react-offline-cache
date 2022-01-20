@@ -32,7 +32,8 @@ roc.register(); // or roc.unregister(); to remove
 ```js
 console.log('online:', roc.isOnline());
 ```
-or
+
+## Is Offline?
 ```js
 if(roc.isOffline()) {
   window.alert('Your application is offline. Sorry.');
