@@ -1,0 +1,30 @@
+{
+  "name": "react-offline-cache",
+  "version": "0.0.1",
+  "description": "A basic cache for React applications. Offline cache to applications. It also serves as a reference for more advanced caching implementations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natancabral/react-offline-cache.git"
+  },
+  "author": "natancabral",
+  "keywords": [
+    "javascript",
+    "node",
+    "nodejs",
+    "node pdf",
+    "pdf",
+    "pdfkit",
+    "table",
+    "pdfkit table",
+    "pdfkit-table"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/natancabral/react-offline-cache/issues"
+  },
+  "homepage": "https://github.com/natancabral/react-offline-cache#readme"
+}
