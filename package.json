@@ -1,6 +1,6 @@
 {
   "name": "react-offline-cache",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A basic cache for React applications. Offline cache to applications. It also serves as a reference for more advanced caching implementations.",
   "main": "index.js",
   "scripts": {

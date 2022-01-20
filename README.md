@@ -21,10 +21,14 @@ import * as roc from 'react-offline-cache';
 
 ReactDOM.render(<App />, document.getElementById("root"));
 
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
+// init faster
+roc.register();
+```
 
-roc.register(); // or roc.unregister(); to remove
+## How remove
+
+```js
+roc.unregister();
 ```
 
 ## Is Online?
