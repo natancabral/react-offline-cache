@@ -13,6 +13,10 @@ npm install react-offline-cache
 ## src/index.js
 
 ```js
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./App";
+// react-offline-cache
 import * as roc from 'react-offline-cache';
 
 ReactDOM.render(<App />, document.getElementById("root"));
