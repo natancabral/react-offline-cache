@@ -27,6 +27,18 @@ ReactDOM.render(<App />, document.getElementById("root"));
 roc.register(); // or roc.unregister(); to remove
 ```
 
+## Is Online?
+
+```js
+console.log('online:', roc.isOnline());
+```
+or
+```js
+if(roc.isOffline()) {
+  window.alert('Your application is offline. Sorry.');
+}
+```
+
 ## License
 
 The MIT License.
