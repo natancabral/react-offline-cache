@@ -36,7 +36,8 @@ console.log('online:', roc.isOnline());
 ## Is Offline?
 ```js
 if(roc.isOffline()) {
-  window.alert('Your application is offline. Sorry.');
+  window.alert('Your internet is offline. Sorry.');
+
 }
 ```
 
