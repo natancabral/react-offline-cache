@@ -41,7 +41,6 @@ console.log('online:', roc.isOnline());
 ```js
 if(roc.isOffline()) {
   window.alert('Your internet is offline. Sorry.');
-
 }
 ```
 
